@@ -446,12 +446,12 @@
     margin-top: -8.5rem;
   }
   
-  /* .hero-homepage {
-    background-image: url(./images/engineer.jpg);
+  .hero-homepage {
+    
     background-position: 65% 8rem;
     background-repeat: no-repeat;
     background-size: 90rem auto;
-  } */
+  }
   
   .section-hero .section-body {
     padding: 10rem 4rem;
